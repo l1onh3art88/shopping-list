@@ -1,8 +1,41 @@
-.text-box{
-  text-align: center;
+.text-box p{
   margin: auto;
   border-style: solid;
   border-width: : 1px;
+  border-color: #FA5858;
   height: 20px;
-  width: 500px;
+  width: 685px;
+  padding-left: 10px;
 }
+/*.text-box{
+  margin-left: 200px;
+}*/
+.list {
+  
+  max-width: 700px;
+  margin: auto;
+  list-style-type: none;
+
+}
+li{
+/*  margin-left: 200px;
+*/  border-style: solid;
+  border-width: 1px;
+  padding-left: 10px;
+  border-color: #2E9AFE;
+}
+.container{
+  height: 585px;
+  width: 700px;
+  margin: auto;
+  background-color: #F2F5A9;
+  border-width: 1px;
+  border-style: solid;
+}
+.item4{
+  text-decoration: line-through;  
+}
+.item5{
+  text-decoration: line-through;
+}
+
